@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deepti! <br/><a href="https://github.com/deeptigp09/deeptigp09">Learner</a>, <a href="https://www.linkedin.com/in/deepti-gp/">CX Leader</a>, <a href="https://www.youtube.com/channel/UCNS6B7LDLK1lU95kI3mSv8Q">YouTuber</a></h1>
+<h1>Hi, I'm Deepti! <br/><a href="https://github.com/deeptigp09/deeptigp09">Learner</a>, <a href="https://www.linkedin.com/in/deepti-gp/">CX Leader</a>, <a href="https://www.youtube.com/channel/UCNS6B7LDLK1lU95kI3mSv8Q">YT</a></h1>
 
 <h2>👨‍💻 PHP Project:</h2>
  - <a href="https://github.com/deeptigp09/UserRegistrationAndManagement" target="_blank">User Management and Registration</a>
