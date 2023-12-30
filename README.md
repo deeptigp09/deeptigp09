@@ -5,8 +5,6 @@
   
 🔭 I’m currently working on [SQL Data Exploration](https://github.com/deeptigp09/SQL-Data-Exploration) and [Python Projects](https://github.com/deeptigp09/python_projects)
 
-💬 Ask me about **SQL, Data Analysis and Python**
-
 👯 I’m looking to collaborate on [Exploiting OWASP Top 10 Vulnerabilities](https://github.com/deeptigp09/WebGoattutorial)
 
 📫 How to reach me **deepti2711@gmail.com**
