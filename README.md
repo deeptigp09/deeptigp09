@@ -3,9 +3,9 @@
 
 🌱 I’m currently brushing up my **Data Analysis and Python** skills
   
-🔭 I’m currently working on [SQL Data Exploration](https://github.com/deeptigp09/SQL-Data-Exploration) and [Python Projects](https://github.com/deeptigp09/python_projects)
+🔭 I’m currently working on [IPL Insights Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge) and [Python Projects](https://github.com/deeptigp09/python_projects)
 
-👯 I’m looking to collaborate on [Exploiting OWASP Top 10 Vulnerabilities](https://github.com/deeptigp09/WebGoattutorial)
+👯 I’m looking for a study buddy to collaborate on [DS and ML](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program)
 
 📫 How to reach me **deepti2711@gmail.com**
 
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/deepti-gp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepti-gp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deepti2711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepti2711" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepti2711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepti2711" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
