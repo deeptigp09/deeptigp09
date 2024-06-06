@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deepti Guruprasad</h1>
 <h3 align="center">Passionate about Data Analysis, Customer Experience, and leveraging data to drive informed decisions and meaningful outcomes.</h3>
 
-🌱 I’m currently brushing up my **Data Analysis and Python** skills
-  
-🔭 I’m currently working on [IPL Insights Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge) and [Python Projects](https://github.com/deeptigp09/python_projects)
+A collection of my projects, each showcasing different aspects of my skills and interests. Feel free to explore and provide any feedback.
+
+#### [Python](https://github.com/deeptigp09/python_projects/tree/main)
+The projects involve various data analysis tasks using Python. It includes data cleaning, visualization, and analysis using libraries such as pandas, numpy, matplotlib and seaborn.
+
+#### [Power BI and SQL](https://github.com/deeptigp09/Data_Analysis_SQL_PowerBi)
+This project showcases my skills in SQL and Power BI. It includes data extraction, transformation, and loading (ETL) processes, along with creating interactive dashboards and reports in Power BI.
+
+#### [EDA using SQL](https://github.com/deeptigp09/SQL-Data-Exploration)
+This project focuses on Exploratory Data Analysis (EDA) using SQL. It involves querying databases to uncover patterns, correlations, and insights from the data.
+
+#### [Excel](https://github.com/deeptigp09/Exploring_Excel)
+In this project, I demonstrate my proficiency in Excel for data analysis. It includes data cleaning, pivot tables, data visualization, and advanced Excel functions to analyze and present data effectively.
+
+🌱 I’m currently learning how to make sense of unstructured data.
 
 👯 I’m looking for a study buddy to collaborate on [DS and ML](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program)
 
