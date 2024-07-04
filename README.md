@@ -23,7 +23,7 @@ Showcasing skills in SQL and Power BI with a detailed analysis of IPL cricket da
 #### [Bike Sales Dashboard](https://github.com/deeptigp09/Exploring_Excel)
 Demonstrating proficiency in Excel for data analysis, including data cleaning, pivot tables, data visualization, and advanced Excel functions to analyze and present bike sales data effectively.
 
-🌱 I’m currently learning how to make sense of unstructured data.
+🌱 I’m currently brushing up concepts on Regression and Prediction.
 
 👯 I’m looking for a study buddy to collaborate on [DS and ML](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program)
 
