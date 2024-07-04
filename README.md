@@ -3,14 +3,25 @@
 
 A collection of my projects, each showcasing different aspects of my skills and interests. Feel free to explore and provide any feedback.
 
-#### [Python](https://github.com/deeptigp09/python_projects/tree/main)
-The projects involve various data analysis tasks using Python. It includes data cleaning, visualization, and analysis using libraries such as pandas, numpy, matplotlib and seaborn.
+## Projects
 
-#### [SQL and Power BI](https://github.com/deeptigp09/Data_Analysis_SQL_PowerBi)
-This project showcases my skills in SQL and Power BI. It includes data extraction, transformation, and loading (ETL) processes, along with creating interactive dashboards and reports in Power BI.
+#### [Customer Segmentation (RFM Analysis)](https://github.com/deeptigp09/python_projects/tree/main/CustomerSegmentationAnalysis)
+This project involves performing RFM (Recency, Frequency, Monetary) analysis to segment customers and derive actionable insights.
 
-#### [Excel](https://github.com/deeptigp09/Exploring_Excel)
-In this project, I demonstrate my proficiency in Excel for data analysis. It includes data cleaning, pivot tables, data visualization, and advanced Excel functions to analyze and present data effectively.
+#### [Uber Data Insights Report](https://github.com/deeptigp09/python_projects/tree/main/Uber%20Case%20Study)
+Analyzing Uber trip data to extract meaningful patterns and trends.
+
+#### [FIFA WorldCup Analysis](https://github.com/deeptigp09/python_projects/tree/main/FIFA%20WorldCup%20Analysis)
+A comprehensive analysis of FIFA World Cup data, focusing on various performance metrics and trends.
+
+#### [Cardio Fitness Data Analysis](https://github.com/deeptigp09/python_projects/tree/main/Cardio%20Fitness%20Data%20Analysis)
+Insights into fitness trends and patterns through data analysis of cardio fitness data.
+
+#### [Cricket Data Analysis (IPL)](https://github.com/deeptigp09/Data_Analysis_SQL_PowerBi)
+Showcasing skills in SQL and Power BI with a detailed analysis of IPL cricket data, including interactive dashboards and reports.
+
+#### [Bike Sales Dashboard](https://github.com/deeptigp09/Exploring_Excel)
+Demonstrating proficiency in Excel for data analysis, including data cleaning, pivot tables, data visualization, and advanced Excel functions to analyze and present bike sales data effectively.
 
 🌱 I’m currently learning how to make sense of unstructured data.
 
