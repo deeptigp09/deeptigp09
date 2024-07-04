@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepti Guruprasad</h1>
 <h3 align="center">Passionate about Data Analysis, Customer Experience, and leveraging data to drive informed decisions and meaningful outcomes.</h3>
 
-A collection of my projects, each showcasing different aspects of my skills and interests. 
+<h5 align="center"> A collection of my projects, each showcasing different aspects of my skills and interests. </h5>
 
 ## Projects
 
