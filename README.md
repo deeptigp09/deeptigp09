@@ -5,6 +5,9 @@
 
 ## Projects
 
+#### [E-Commerce Sales Dashboard | YTD Sales](https://github.com/deeptigp09/Ecommerce_Sales_Dashboard)
+This interactive dashboard gives insights into Sales KPIs and Category wise analysis for different Markets and Customer Segments.
+
 #### [Customer Segmentation (RFM Analysis)](https://github.com/deeptigp09/python_projects/tree/main/CustomerSegmentationAnalysis)
 This project involves performing RFM (Recency, Frequency, Monetary) analysis to segment customers and derive actionable insights.
 
