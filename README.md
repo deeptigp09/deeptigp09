@@ -9,7 +9,7 @@
 This interactive dashboard gives insights into Sales KPIs and Category wise analysis for different Markets and Customer Segments.
 
 #### [Customer Segmentation (RFM Analysis)](https://github.com/deeptigp09/python_projects/tree/main/CustomerSegmentationAnalysis)
-This project involves performing RFM (Recency, Frequency, Monetary) analysis to segment customers and derive actionable insights.
+This project involves performing Recency, Frequency, Monetary (RFM) analysis to segment customers and deriving insights.
 
 #### [FoodHub Analysis](https://github.com/deeptigp09/FoodHub_Analysis)
 This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience.
