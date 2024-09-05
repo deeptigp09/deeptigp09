@@ -5,6 +5,9 @@
 
 ## Projects
 
+#### [Data Cleaning using SQL](https://github.com/deeptigp09/Housing_data_cleaning)
+This SQL script cleans and standardizes the table by formatting dates, populating missing addresses, splitting address fields, normalizing categorical data, removing duplicates, and dropping unnecessary columns.
+
 #### [E-Commerce Sales Dashboard | YTD Sales](https://github.com/deeptigp09/Ecommerce_Sales_Dashboard)
 This interactive dashboard gives insights into Sales KPIs and Category wise analysis for different Markets and Customer Segments.
 
