@@ -5,6 +5,9 @@
 
 ## Projects
 
+#### [Amazon Products Recommendation System](https://github.com/deeptigp09/recommendationsystem)
+This project involves recommending the best Amazon products available to users based on past rating data using recommendation systems techniques.
+
 #### [Data Cleaning using SQL](https://github.com/deeptigp09/Housing_data_cleaning)
 This SQL script cleans and standardizes the table by formatting dates, populating missing addresses, splitting address fields, normalizing categorical data, removing duplicates, and dropping unnecessary columns.
 
