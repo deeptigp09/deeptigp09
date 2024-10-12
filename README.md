@@ -11,6 +11,9 @@ This project involves recommending the best Amazon products available to users b
 #### [Data Cleaning using SQL](https://github.com/deeptigp09/Housing_data_cleaning)
 This SQL script cleans and standardizes the table by formatting dates, populating missing addresses, splitting address fields, normalizing categorical data, removing duplicates, and dropping unnecessary columns.
 
+#### [Superkart Sales Prediction and Analysis](https://github.com/deeptigp09/superkartsales)
+SuperKart aims to predict future sales revenue for its supermarkets and food marts using historical data, enabling strategic sales operations and inventory planning across various tier cities.
+
 #### [E-Commerce Sales Dashboard | YTD Sales](https://github.com/deeptigp09/Ecommerce_Sales_Dashboard)
 This interactive dashboard gives insights into Sales KPIs and Category wise analysis for different Markets and Customer Segments.
 
