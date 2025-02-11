@@ -5,6 +5,9 @@
 
 ## Projects
 
+#### [Fraud Detection and Analysis](https://github.com/deeptigp09/FraudDetection)
+The analysis includes exploratory data analysis (EDA), fraud pattern detection, anomaly detection, and feature engineering.
+
 #### [Amazon Products Recommendation System](https://github.com/deeptigp09/recommendationsystem)
 This project involves recommending the best Amazon products available to users based on past rating data using recommendation systems techniques.
 
